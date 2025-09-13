@@ -1,0 +1,11 @@
+header{height: 15mm; background-color: rgb(96, 110, 110);text-align: center; font-size: small;}
+h1{text-align: center; font-size: medium;}
+.summary{display: flex; align-items: center; gap: 40px;}
+.skills{display: flex; align-items: center; gap: 20px;}
+.experience {display: flex; align-items: center; gap: 40px;}
+.education{display: flex; align-items: center; gap: 40px;}
+.accomplishment{display: flex; align-items: center; gap: 20px;}
+.ectracaricullar{display: flex; align-items: center; gap: 40px;}
+h2{text-align: initial; font-size: small; inline-size;}
+ul{column-count: 3;}
+body{width:210mm; height:297mm; padding:20mm;}
